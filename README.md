@@ -61,13 +61,13 @@ Select your instance → Instance State → Terminate.
 # Output:
 
 ## Simple Storage Service:
-<img width="1920" height="1080" alt="Screenshot 2026-08-02 123003" src="https://github.com/user-attachments/assets/50490ad3-d96d-498e-a7c0-c4b007550aca" />
+<img width="1122" height="612" alt="image" src="https://github.com/user-attachments/assets/b0c50edd-5039-4cb9-866b-4a646b04ba26" />
 
 
 
 ## EC2(Elastic Cloud Compute)
 
-<img width="1920" height="1080" alt="Screenshot 2026-08-02 122704" src="https://github.com/user-attachments/assets/a6c60558-cf31-4e7e-8a59-0facd82a27fc" />
+<img width="1177" height="657" alt="image" src="https://github.com/user-attachments/assets/c2589c32-3ca4-4dac-931a-6b4af309dd2d" />
 
 
 
